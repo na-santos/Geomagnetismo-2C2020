@@ -3,10 +3,10 @@
 Este repositorio contiene el desarrollo del trabajo práctico sobre campo magnético terrestre y actividad geomagnética 
 ## 📁 Estructura del repositorio
 
-- 📂 **data/** — Datos utilizados
-- 📂 **codigos/** — Scripts utilizados
-- 📂 **figuras/** — Gráficos generados en el análisis y visualización
-- 📄 **Trabajofinal.pdf** — Informe completo
+- **data/** — Datos utilizados
+- **codigos/** — Scripts utilizados
+- **figuras/** — Gráficos generados en el análisis y visualización
+- **Trabajofinal.pdf** — Informe completo
 
 ## 🔍 Contenido del estudio
 
