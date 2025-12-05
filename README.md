@@ -1,6 +1,7 @@
 # 🧲 Estudio del Campo Geomagnético Terrestre
 
-Este repositorio contiene el desarrollo del trabajo práctico sobre campo magnético terrestre y actividad geomagnética 
+Este repositorio contiene el desarrollo del trabajo práctico sobre campo magnético terrestre y actividad geomagnética. Este trabajo fue realizado en el **Curso de Postgrado: Campo Magnético de la Tierra y Actividad Geomagnética_ (UNT, 2C 2020)**
+
 ## 📁 Estructura del repositorio
 
 - **data/** — Datos utilizados
